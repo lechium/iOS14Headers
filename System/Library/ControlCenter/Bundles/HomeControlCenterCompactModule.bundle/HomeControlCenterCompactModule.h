@@ -1,0 +1,7 @@
+#import <HomeControlCenterCompactModule/HUCCControlCenterCompactModule.h>
+#import <HomeControlCenterCompactModule/HUCCCompactModuleContentViewController.h>
+#import <HomeControlCenterCompactModule/HUCCLockStateHandler.h>
+#import <HomeControlCenterCompactModule/HUCCDashboardContainerViewController.h>
+#import <HomeControlCenterCompactModule/HUCCPreferences.h>
+#import <HomeControlCenterCompactModule/HUCCCompactModulePropertyAnimator.h>
+#import <HomeControlCenterCompactModule/HUCCRemoteDashboardViewController.h>

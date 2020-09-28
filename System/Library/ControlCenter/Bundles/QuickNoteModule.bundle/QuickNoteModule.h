@@ -1,0 +1,1 @@
+#import <QuickNoteModule/ICControlCenterQuickNoteModule.h>

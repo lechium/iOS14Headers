@@ -1,0 +1,10 @@
+#import <Snappy/SNTestContext.h>
+#import <Snappy/SNTestRunner.h>
+#import <Snappy/SNTestStore.h>
+#import <Snappy/SNTestCoordinator.h>
+#import <Snappy/SNAssembly.h>
+#import <Snappy/SNTestSuite.h>
+#import <Snappy/SNTestRun.h>
+#import <Snappy/SNTestFailure.h>
+#import <Snappy/SNTestAssembly.h>
+#import <Snappy/SNTestChain.h>

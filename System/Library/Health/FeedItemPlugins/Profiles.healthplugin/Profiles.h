@@ -1,0 +1,10 @@
+#import <Profiles/Profiles.ProfilesHealthPluginDelegate.h>
+#import <Profiles/Profiles.CloudSyncGenerator.h>
+#import <Profiles/Profiles.CloudSyncGeneratorPipeline.h>
+#import <Profiles/Profiles.ProfileInformationGenerator.h>
+#import <Profiles/Profiles.StopReceivingProfileManager.h>
+#import <Profiles/Profiles.ProfileSyncHandler.h>
+#import <Profiles/Profiles.HealthAppDefaults.h>
+#import <Profiles/Profiles.ProfilesAppDelegate.h>
+#import <Profiles/Profiles.ProfileInformationGeneratorPipeline.h>
+#import <Profiles/Profiles.ProfileNoDataCell.h>

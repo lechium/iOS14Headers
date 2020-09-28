@@ -1,0 +1,16 @@
+#import <TextInput_zh/TIKeyboardInputManager_zh_SegmentAdjust.h>
+#import <TextInput_zh/TIZhuyinPunctuationManager.h>
+#import <TextInput_zh/TIKeyboardInputManagerCangjie_zh.h>
+#import <TextInput_zh/TIKeyboardInputManager_zh_Pinyin.h>
+#import <TextInput_zh/TIKeyboardInputManager_zh_hans_Pinyin.h>
+#import <TextInput_zh/TIKeyboardInputManager_zh_hant_Pinyin.h>
+#import <TextInput_zh/TIKeyboardInputManagerLiveConversion_zh.h>
+#import <TextInput_zh/TIKeyboardInputManager_zh_hant_Zhuyin.h>
+#import <TextInput_zh/TIKeyboardInputManagerSimplifiedWubixing.h>
+#import <TextInput_zh/TIZhuyinInputManager.h>
+#import <TextInput_zh/TIKeyboardInputManager_zh_SegmentPicker.h>
+#import <TextInput_zh/TIKeyboardInputManagerSimplifiedWubi.h>
+#import <TextInput_zh/TIKeyboardInputManagerTraditionalWubi.h>
+#import <TextInput_zh/TIInputManagerHandwritingSimplified.h>
+#import <TextInput_zh/TIInputManagerHandwritingTraditional.h>
+#import <TextInput_zh/TIKeyboardInputManager_zh_Candidates.h>

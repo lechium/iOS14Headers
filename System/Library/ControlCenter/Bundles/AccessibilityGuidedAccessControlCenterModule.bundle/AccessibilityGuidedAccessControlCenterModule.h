@@ -1,0 +1,2 @@
+#import <AccessibilityGuidedAccessControlCenterModule/AXCCGuidedAccessModule.h>
+#import <AccessibilityGuidedAccessControlCenterModule/AXCCGuidedAccessModuleViewController.h>

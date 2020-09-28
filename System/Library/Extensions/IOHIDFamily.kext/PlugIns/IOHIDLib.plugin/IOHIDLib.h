@@ -1,0 +1,10 @@
+#import <IOHIDLib/IOHIDIUnknown2.h>
+#import <IOHIDLib/IOHIDPlugin.h>
+#import <IOHIDLib/IOHIDTransactionClass.h>
+#import <IOHIDLib/IOHIDOutputTransactionClass.h>
+#import <IOHIDLib/HIDLibElement.h>
+#import <IOHIDLib/IOHIDQueueClass.h>
+#import <IOHIDLib/IOHIDObsoleteQueueClass.h>
+#import <IOHIDLib/IOHIDUPSClass.h>
+#import <IOHIDLib/IOHIDDeviceClass.h>
+#import <IOHIDLib/IOHIDObsoleteDeviceClass.h>

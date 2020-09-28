@@ -1,0 +1,14 @@
+#import <Contacts/ABAssistantSyncPeople.h>
+#import <Contacts/ABAssistantSyncHandler.h>
+#import <Contacts/ABAssistantSyncInfoPersistence.h>
+#import <Contacts/CNAssistantCommandCancelPerson.h>
+#import <Contacts/CNAssistantCommandSearchPerson.h>
+#import <Contacts/CNAssistantCommandPunchOut.h>
+#import <Contacts/CNAssistantCommandMultiSearchPerson.h>
+#import <Contacts/CNAssistantCommandClear.h>
+#import <Contacts/CNAssistantCommandUpdatePerson.h>
+#import <Contacts/ABAssistantSyncWorker.h>
+#import <Contacts/CNAssistantCommandRetrievePerson.h>
+#import <Contacts/ABAssistantSyncAnchor.h>
+#import <Contacts/CNAssistantCommandCommitPerson.h>
+#import <Contacts/CNAssistantCache.h>

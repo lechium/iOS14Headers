@@ -1,0 +1,15 @@
+#import <PhotosEditUI/AXPhotosEditUIGlue.h>
+#import <PhotosEditUI/__PUAdjustmentsModePickerCellAccessibility_super.h>
+#import <PhotosEditUI/PUAdjustmentsModePickerCellAccessibility.h>
+#import <PhotosEditUI/__PUAdjustmentsModeSliderCellAccessibility_super.h>
+#import <PhotosEditUI/PUAdjustmentsModeSliderCellAccessibility.h>
+#import <PhotosEditUI/__PUCompactAdjustmentsModeBarAccessibility_super.h>
+#import <PhotosEditUI/PUCompactAdjustmentsModeBarAccessibility.h>
+#import <PhotosEditUI/__PUPhotoEditEffectCellAccessibility_super.h>
+#import <PhotosEditUI/PUPhotoEditEffectCellAccessibility.h>
+#import <PhotosEditUI/__PUTiltWheelControlAccessibility_super.h>
+#import <PhotosEditUI/PUTiltWheelControlAccessibility.h>
+#import <PhotosEditUI/__PUVideoEditViewControllerAccessibility_super.h>
+#import <PhotosEditUI/PUVideoEditViewControllerAccessibility.h>
+#import <PhotosEditUI/__PURegularAdjustmentsModeBarAccessibility_super.h>
+#import <PhotosEditUI/PURegularAdjustmentsModeBarAccessibility.h>

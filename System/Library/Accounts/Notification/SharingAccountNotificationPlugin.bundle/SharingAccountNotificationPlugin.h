@@ -1,0 +1,1 @@
+#import <SharingAccountNotificationPlugin/SharingAccountNotificationDelegate.h>

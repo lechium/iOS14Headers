@@ -1,0 +1,9 @@
+#import <MediaLibrary-iOS/ACCSettingsState.h>
+#import <MediaLibrary-iOS/MediaLibraryHelper.h>
+#import <MediaLibrary-iOS/ACCMediaLibraryShimInfo.h>
+#import <MediaLibrary-iOS/ACCMediaLibraryShim.h>
+#import <MediaLibrary-iOS/ACCMediaLibraryFeaturePlugin.h>
+#import <MediaLibrary-iOS/WorkspaceObserver.h>
+#import <MediaLibrary-iOS/ACCStatInfoAccumulator.h>
+#import <MediaLibrary-iOS/ACCMemUsageStatInfo.h>
+#import <MediaLibrary-iOS/ACCMemUsageStat.h>

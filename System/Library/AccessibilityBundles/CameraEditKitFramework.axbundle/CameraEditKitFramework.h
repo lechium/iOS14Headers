@@ -1,0 +1,11 @@
+#import <CameraEditKitFramework/AXCameraEditKitFrameworkGlue.h>
+#import <CameraEditKitFramework/__CEKApertureSliderAccessibility_super.h>
+#import <CameraEditKitFramework/CEKApertureSliderAccessibility.h>
+#import <CameraEditKitFramework/__CEKLightingControlAccessibility_super.h>
+#import <CameraEditKitFramework/CEKLightingControlAccessibility.h>
+#import <CameraEditKitFramework/__CEKSliderAccessibility_super.h>
+#import <CameraEditKitFramework/CEKSliderAccessibility.h>
+#import <CameraEditKitFramework/__CEKWheelScrubberViewAccessibility_super.h>
+#import <CameraEditKitFramework/CEKWheelScrubberViewAccessibility.h>
+#import <CameraEditKitFramework/__CEKApertureButtonAccessibility_super.h>
+#import <CameraEditKitFramework/CEKApertureButtonAccessibility.h>

@@ -1,0 +1,11 @@
+#import <HearingAppPlugin/HearingAppPlugin.HeadphoneNotificationsDataDetailDataSourceProvider.h>
+#import <HearingAppPlugin/HearingAppPlugin.NoiseAvailability.h>
+#import <HearingAppPlugin/HearingAppPlugin.HearingAppPluginAppDelegate.h>
+#import <HearingAppPlugin/HearingAppPlugin.HearingAppPluginDelegate.h>
+#import <HearingAppPlugin/HearingAppPlugin.NoiseNotificationsDataTypeDetailDataSourceProvider.h>
+#import <HearingAppPlugin/HearingAppPlugin.NoiseGeneratorPipeline.h>
+#import <HearingAppPlugin/_TtC16HearingAppPluginP33_FE1D5F38C8FD270759B9894EC01A3D9938HearingThresholdSpecifierConfiguration.h>
+#import <HearingAppPlugin/HearingAppPlugin.NoisePromotionGenerator.h>
+#import <HearingAppPlugin/HearingAppPlugin.SoundLevelView.h>
+#import <HearingAppPlugin/HearingAppPlugin.HorizontalMeterView.h>
+#import <HearingAppPlugin/HearingAppPlugin.NoiseFeatureStatusGenerator.h>

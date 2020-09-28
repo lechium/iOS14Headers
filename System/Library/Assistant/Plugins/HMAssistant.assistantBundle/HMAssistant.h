@@ -1,0 +1,1 @@
+#import <HMAssistant/HMAssistantSyncHome.h>

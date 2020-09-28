@@ -1,0 +1,11 @@
+#import <SocialFramework/AXSocialFrameworkGlue.h>
+#import <SocialFramework/__SLMicroBlogComposeViewControllerAccessibility_super.h>
+#import <SocialFramework/SLMicroBlogComposeViewControllerAccessibility.h>
+#import <SocialFramework/__UIButtonAccessibility__Social__UIKit_super.h>
+#import <SocialFramework/UIButtonAccessibility__Social__UIKit.h>
+#import <SocialFramework/__UITableViewAccessibility__Social__UIKit_super.h>
+#import <SocialFramework/UITableViewAccessibility__Social__UIKit.h>
+#import <SocialFramework/__UITextViewAccessibility__Social__UIKit_super.h>
+#import <SocialFramework/UITextViewAccessibility__Social__UIKit.h>
+#import <SocialFramework/__SLSheetTextComposeViewAccessibility_super.h>
+#import <SocialFramework/SLSheetTextComposeViewAccessibility.h>
