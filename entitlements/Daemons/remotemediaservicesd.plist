@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>absinthe-client</key>
+	<string>1755971667</string>
+	<key>com.apple.PairingManager.Read</key>
+	<true/>
+	<key>com.apple.PairingManager.RemovePeer</key>
+	<true/>
+	<key>com.apple.PairingManager.Write</key>
+	<true/>
+	<key>com.apple.private.ids.messaging</key>
+	<array>
+		<string>com.apple.private.alloy.remotemediaservices</string>
+	</array>
+	<key>com.apple.private.ids.messaging.high-priority</key>
+	<array>
+		<string>com.apple.private.alloy.remotemediaservices</string>
+	</array>
+	<key>com.apple.security.exception.mach-lookup.global-name</key>
+	<array>
+		<string>com.apple.PairingManager</string>
+	</array>
+	<key>com.apple.security.iokit-user-client-class</key>
+	<array>
+		<string>AppleJPEGDriverUserClient</string>
+		<string>IOSurfaceRootUserClient</string>
+	</array>
+	<key>fairplay-client</key>
+	<string>516366292</string>
+	<key>keychain-access-groups</key>
+	<array>
+		<string>com.apple.MediaRemote.pairing</string>
+	</array>
+</dict>
+</plist>

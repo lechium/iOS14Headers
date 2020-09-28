@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>application-identifier</key>
+	<string>com.apple.geocorrectiond</string>
+	<key>com.apple.CoreRoutine.LocationOfInterest</key>
+	<true/>
+	<key>com.apple.CoreRoutine.VehicleLocation</key>
+	<true/>
+	<key>com.apple.accounts.appleaccount.fullaccess</key>
+	<true/>
+	<key>com.apple.geoservices.setanydefault</key>
+	<true/>
+	<key>com.apple.locationd.effective_bundle</key>
+	<true/>
+	<key>com.apple.security.exception.files.absolute-path.read-only</key>
+	<array>
+		<string>/System/Library/Preferences/Logging/</string>
+		<string>/AppleInternal/Library/Preferences/Logging/</string>
+		<string>/Library/Preferences/Logging/</string>
+	</array>
+	<key>com.apple.security.exception.files.home-relative-path.read-write</key>
+	<array>
+		<string>/Library/Caches/com.apple.geocorrectiond</string>
+		<string>/Library/Caches/com.apple.geocorrectiond/</string>
+		<string>/Library/Caches/com.apple.geocorrectiond/upload</string>
+		<string>/Library/Caches/com.apple.geocorrectiond/upload/</string>
+	</array>
+	<key>com.apple.security.exception.mach-lookup.global-name</key>
+	<array>
+		<string>com.apple.locationd.synchronous</string>
+		<string>com.apple.nsurlsessiond</string>
+	</array>
+	<key>platform-application</key>
+	<true/>
+	<key>seatbelt-profiles</key>
+	<array>
+		<string>geocorrectiond</string>
+	</array>
+</dict>
+</plist>

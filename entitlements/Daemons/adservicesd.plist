@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SBStarkCapable</key>
+	<true/>
+	<key>com.apple.CommCenter.fine-grained</key>
+	<array>
+		<string>spi</string>
+	</array>
+	<key>com.apple.accounts.appleaccount.fullaccess</key>
+	<true/>
+	<key>com.apple.assertiond.app-state-monitor</key>
+	<true/>
+	<key>com.apple.itunesstored.private</key>
+	<true/>
+	<key>com.apple.locationd.effective_bundle</key>
+	<true/>
+	<key>com.apple.managedconfiguration.profiled-access</key>
+	<true/>
+	<key>com.apple.private.accounts.bundleidspoofing</key>
+	<true/>
+	<key>com.apple.private.ap.idmanager</key>
+	<true/>
+	<key>com.apple.private.applemediaservices</key>
+	<true/>
+	<key>com.apple.private.fpsd.client</key>
+	<true/>
+	<key>com.apple.private.network.socket-delegate</key>
+	<true/>
+	<key>com.apple.security.exception.mach-lookup.global-name</key>
+	<array>
+		<string>com.apple.tailspind</string>
+		<string>com.apple.ap.adprivacyd.idmanager</string>
+	</array>
+	<key>com.apple.security.exception.mach-register.global-name</key>
+	<array>
+		<string>com.apple.ap.adservicesd.server</string>
+	</array>
+	<key>com.apple.springboard.activateRemoteAlert</key>
+	<true/>
+	<key>com.apple.tailspin.dump-output</key>
+	<true/>
+	<key>fairplay-client</key>
+	<string>700802717</string>
+	<key>keychain-access-groups</key>
+	<array>
+		<string>apple</string>
+	</array>
+	<key>platform-application</key>
+	<true/>
+	<key>seatbelt-profiles</key>
+	<array>
+		<string>adservicesd</string>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>abs-client</key>
+	<string>1821501079</string>
+	<key>com.apple.Contacts.database-allow</key>
+	<true/>
+	<key>com.apple.coreaudio.allow-opus-codec</key>
+	<true/>
+	<key>com.apple.coreaudio.register-internal-aus</key>
+	<true/>
+	<key>com.apple.developer.networking.multipath_extended</key>
+	<true/>
+	<key>com.apple.private.assets.accessible-asset-types</key>
+	<array>
+		<string>com.apple.MobileAsset.VoiceServices.CustomVoice</string>
+		<string>com.apple.MobileAsset.VoiceServices.VoiceResources</string>
+		<string>com.apple.MobileAsset.VoiceServicesVocalizerVoice</string>
+		<string>com.apple.MobileAsset.VoiceServices.GryphonVoice</string>
+	</array>
+	<key>com.apple.private.assets.change-daemon-config</key>
+	<true/>
+	<key>com.apple.private.coreaudio.borrowaudiosession.allow</key>
+	<true/>
+	<key>com.apple.private.tcc.allow</key>
+	<array>
+		<string>kTCCServiceAddressBook</string>
+		<string>kTCCServiceMicrophone</string>
+		<string>kTCCServiceMediaLibrary</string>
+	</array>
+	<key>com.apple.security.iokit-user-client-class</key>
+	<array>
+		<string>AGXCommandQueue</string>
+		<string>AGXDevice</string>
+		<string>AGXDeviceUserClient</string>
+		<string>AGXSharedUserClient</string>
+		<string>H11ANEInDirectPathClient</string>
+		<string>IOAccelContext</string>
+		<string>IOAccelContext2</string>
+		<string>IOAccelDevice</string>
+		<string>IOAccelDevice2</string>
+		<string>IOAccelSharedUserClient</string>
+		<string>IOAccelSharedUserClient2</string>
+		<string>IOAccelSubmitter2</string>
+		<string>IOSurfaceRootUserClient</string>
+	</array>
+	<key>com.apple.siri.client_lite</key>
+	<true/>
+	<key>com.apple.tailspin.dump-output</key>
+	<true/>
+	<key>keychain-access-groups</key>
+	<array>
+		<string>com.apple.siri.osprey</string>
+	</array>
+</dict>
+</plist>

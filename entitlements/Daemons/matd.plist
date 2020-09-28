@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>application-identifier</key>
+	<string>com.apple.matd</string>
+	<key>com.apple.MobileInternetSharing.allow</key>
+	<true/>
+	<key>com.apple.SystemConfiguration.SCDynamicStore-write-access</key>
+	<true/>
+	<key>com.apple.SystemConfiguration.SCPreferences-write-access</key>
+	<array>
+		<string>preferences.plist</string>
+	</array>
+	<key>com.apple.itunesstored.private</key>
+	<true/>
+	<key>com.apple.private.accounts.allaccounts</key>
+	<true/>
+	<key>com.apple.private.mobileinstall.allowedSPI</key>
+	<array>
+		<string>RegisterSafeHarbor</string>
+		<string>RemoveSafeHarbor</string>
+	</array>
+	<key>com.apple.private.security.storage.Messages</key>
+	<true/>
+	<key>com.apple.private.security.storage.Safari</key>
+	<true/>
+	<key>com.apple.private.system-keychain</key>
+	<true/>
+	<key>com.apple.private.tcc.allow</key>
+	<array>
+		<string>kTCCServiceReminders</string>
+		<string>kTCCServiceCalendar</string>
+		<string>kTCCServiceAddressBook</string>
+		<string>kTCCServicePhotos</string>
+	</array>
+	<key>com.apple.wifi.manager-access</key>
+	<true/>
+</dict>
+</plist>

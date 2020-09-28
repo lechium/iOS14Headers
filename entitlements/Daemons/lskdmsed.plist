@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.apple.private.assets.accessible-asset-types</key>
+	<array>
+		<string>com.apple.MobileAsset.AppleKeyServicesCRL</string>
+	</array>
+	<key>com.apple.private.security.no-sandbox</key>
+	<true/>
+	<key>application-identifier</key>
+	<string>com.apple.lskdd</string>
+	<key>fairplay-client</key>
+	<string>1705639473</string>
+        <key>com.apple.private.MobileContainerManager.otherIdLookup</key>
+        <true/>
+	<key>com.apple.security.system-group-containers</key>
+	<array>
+		<string>systemgroup.com.apple.lskdrl</string>
+	</array>
+</dict>
+</plist>
+

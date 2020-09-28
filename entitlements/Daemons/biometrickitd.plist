@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.apple.camera.iokit-user-access</key>
+	<true/>
+	<key>com.apple.keystore.sik.access</key>
+	<true/>
+	<key>com.apple.managedconfiguration.profiled.profile-list-read</key>
+	<true/>
+	<key>com.apple.private.applemesa.allow</key>
+	<true/>
+	<key>com.apple.private.applepearl.allow</key>
+	<true/>
+	<key>com.apple.private.hid.client.event-filter</key>
+	<true/>
+	<key>com.apple.private.hid.client.event-monitor</key>
+	<true/>
+	<key>com.apple.rootless.storage.pearl-field-diagnostics</key>
+	<true/>
+	<key>com.apple.security.iokit-user-client-class</key>
+	<array>
+		<string>AppleBiometricServicesUserClient</string>
+		<string>ApplePearlUserClient</string>
+		<string>AppleH10CamInUserClient</string>
+		<string>IOHIDEventServiceFastPathUserClient</string>
+		<string>AppleSPUHIDDeviceUserClient</string>
+		<string>AppleSPUHIDDriverUserClient</string>
+	</array>
+	<key>com.apple.springboard.opensensitiveurl</key>
+	<true/>
+	<key>com.apple.springboard.statusbarstyleoverrides</key>
+	<true/>
+	<key>com.apple.symptom_diagnostics.report</key>
+	<true/>
+	<key>com.apple.tailspin.dump-output</key>
+	<true/>
+</dict>
+</plist>

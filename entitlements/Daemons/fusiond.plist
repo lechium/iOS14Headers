@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.apple.camera.iokit-user-access</key>
+	<true/>
+	<key>com.apple.driver.AppleBasebandPCI.user-access</key>
+	<true/>
+	<key>com.apple.driver.AppleBasebandPCIControl.user-access</key>
+	<true/>
+	<key>com.apple.driver.AppleConvergedIPCICEBB.user-access</key>
+	<true/>
+	<key>com.apple.driver.AppleConvergedIPCICEBBControl.user-access</key>
+	<true/>
+	<key>com.apple.keystore.fdr-access</key>
+	<true/>
+	<key>com.apple.keystore.sik.access</key>
+	<true/>
+	<key>com.apple.pearl.iokit-user-access</key>
+	<true/>
+	<key>com.apple.private.IOAESAccelerator.fdr-key-handle</key>
+	<true/>
+	<key>com.apple.private.MobileGestalt.AllowedProtectedKeys</key>
+	<array>
+		<string>AmbientLightSensorSerialNumber</string>
+		<string>ArrowChipID</string>
+		<string>ArrowUniqueChipID</string>
+		<string>BasebandBoardSnum</string>
+		<string>BasebandChipId</string>
+		<string>BasebandSerialNumber</string>
+		<string>BasebandUniqueId</string>
+		<string>BatterySerialNumber</string>
+		<string>RosalineSerialNumber</string>
+		<string>SavageChipID</string>
+		<string>SavageSerialNumber</string>
+		<string>HWModelStr</string>
+		<string>ProductType</string>
+		<string>YonkersUID</string>
+		<string>YonkersChipID</string>
+		<string>RoswellChipID</string>
+		<string>SavageChipID</string>
+		<string>SavageInfo</string>
+		<string>SavageSerialNumber</string>
+		<string>SavageUID</string>
+		<string>ScreenSerialNumber</string>
+		<string>TopModuleAuthChipID</string>
+		<string>TristarID</string>
+	</array>
+	<key>com.apple.private.PurpleReverseProxy.allowed</key>
+	<true/>
+	<key>com.apple.private.apfs.revert-to-snapshot</key>
+	<true/>
+	<key>com.apple.private.apfs.trim-active-file</key>
+	<true/>
+	<key>com.apple.private.applemesa.allow</key>
+	<true/>
+	<key>com.apple.private.applesepmanager.allow</key>
+	<true/>
+	<key>com.apple.private.lockdown.lockdown_query</key>
+	<true/>
+	<key>com.apple.private.security.disk-device-access</key>
+	<true/>
+	<key>com.apple.private.vfs.snapshot</key>
+	<true/>
+</dict>
+</plist>

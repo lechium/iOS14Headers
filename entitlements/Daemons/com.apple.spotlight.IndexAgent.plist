@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>application-identifier</key>
+	<string>com.apple.spotlight.IndexAgent</string>
+	<key>com.apple.fileprovider.enumerate</key>
+	<true/>
+	<key>com.apple.private.LiveFS.connection</key>
+	<true/>
+	<key>com.apple.private.allow-external-storage</key>
+	<true/>
+	<key>com.apple.private.tcc.manager</key>
+	<true/>
+	<key>platform-application</key>
+	<true/>
+	<key>seatbelt-profiles</key>
+	<array>
+		<string>IndexAgent</string>
+	</array>
+</dict>
+</plist>

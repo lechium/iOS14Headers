@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adi-client</key>
+	<string>409835401</string>
+	<key>application-identifier</key>
+	<string>com.apple.amsengagementd</string>
+	<key>com.apple.application-identifier</key>
+	<string>com.apple.amsengagementd</string>
+	<key>com.apple.authkit.client.internal</key>
+	<true/>
+	<key>com.apple.developer.icloud-container-environment</key>
+	<string>Production</string>
+	<key>com.apple.keystore.absinthe</key>
+	<true/>
+	<key>com.apple.keystore.sik.access</key>
+	<true/>
+	<key>com.apple.mobileactivationd.device-identifiers</key>
+	<true/>
+	<key>com.apple.mobileactivationd.spi</key>
+	<true/>
+	<key>com.apple.private.accounts.allaccounts</key>
+	<true/>
+	<key>com.apple.private.applemediaservices</key>
+	<true/>
+	<key>com.apple.private.cfnetwork.har-capture-amp</key>
+	<true/>
+	<key>com.apple.private.usernotifications.bundle-identifiers</key>
+	<array>
+		<string>com.apple.AppStore</string>
+		<string>com.apple.Music</string>
+		<string>com.apple.tv</string>
+	</array>
+	<key>com.apple.security.attestation.access</key>
+	<true/>
+	<key>com.apple.security.exception.files.absolute-path.read-only</key>
+	<array>
+		<string>/System/Library/AMSEngagement/</string>
+	</array>
+	<key>fairplay-client</key>
+	<string>1445028844</string>
+	<key>keychain-access-groups</key>
+	<array>
+		<string>apple</string>
+	</array>
+</dict>
+</plist>

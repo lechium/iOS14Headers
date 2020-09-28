@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>application-identifier</key>
+	<string>com.apple.mobile.softwareupdated</string>
+	<key>com.apple.private.CacheDelete</key>
+	<array>
+		<string>PURGE_ENTITLEMENT</string>
+		<string>CLIENT_ENTITLEMENT</string>
+		<string>PURGEABLE_ENTITLEMENT</string>
+	</array>
+	<key>com.apple.private.MobileGestalt.AllowedProtectedKeys</key>
+	<array>
+		<string>SerialNumber</string>
+	</array>
+	<key>com.apple.private.allow-nsurlsession-proxy</key>
+	<true/>
+	<key>com.apple.private.amfi.can-load-trust-cache</key>
+	<true/>
+	<key>com.apple.private.assets.accessible-asset-types</key>
+	<array>
+		<string>com.apple.MobileAsset.MobileSoftwareUpdate.MacUpdateBrain</string>
+		<string>com.apple.MobileAsset.SFRSoftwareUpdate</string>
+		<string>com.apple.MobileAsset.MacSoftwareUpdate</string>
+		<string>com.apple.MobileAsset.MobileSoftwareUpdate.UpdateBrain</string>
+		<string>com.apple.MobileAsset.SoftwareUpdate</string>
+	</array>
+	<key>com.apple.private.assets.change-daemon-config</key>
+	<true/>
+	<key>com.apple.private.domain-extension</key>
+	<true/>
+	<key>com.apple.private.softwareupdated-helpers</key>
+	<true/>
+	<key>com.apple.security.network.client</key>
+	<true/>
+	<key>seatbelt-profiles</key>
+	<array>
+		<string>softwareupdated</string>
+	</array>
+</dict>
+</plist>

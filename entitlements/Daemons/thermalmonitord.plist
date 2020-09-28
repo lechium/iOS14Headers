@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.apple.CommCenter.fine-grained</key>
+	<array>
+		<string>spi</string>
+	</array>
+	<key>com.apple.basebandd.xpc.allow</key>
+	<true/>
+	<key>com.apple.carousel.onWristMonitor.actions</key>
+	<array>
+		<string>monitor</string>
+	</array>
+	<key>com.apple.coreduetd.allow</key>
+	<true/>
+	<key>com.apple.coreduetd.context</key>
+	<true/>
+	<key>com.apple.private.aets.user-access</key>
+	<true/>
+	<key>com.apple.private.hid.client.event-monitor</key>
+	<true/>
+	<key>com.apple.private.ppm.superclient</key>
+	<true/>
+	<key>com.apple.private.smcsensor.user-access</key>
+	<true/>
+	<key>com.apple.security.exception.mach-lookup.global-name</key>
+	<array>
+		<string>com.apple.coreduetd.context</string>
+	</array>
+	<key>com.apple.security.iokit-user-client-class</key>
+	<array>
+		<string>RootDomainUserClient</string>
+		<string>IOReportUserClient</string>
+		<string>IOMobileFramebufferUserClient</string>
+		<string>AppleT8006PPMUserClient</string>
+		<string>AppleSMCSensorDispatcherUserClient</string>
+		<string>ApplePPMUserClient</string>
+		<string>ApplePMPThermalUserClient</string>
+	</array>
+	<key>com.apple.systemapp.allowsShutdown</key>
+	<true/>
+	<key>com.apple.wifi.manager-access</key>
+	<true/>
+</dict>
+</plist>

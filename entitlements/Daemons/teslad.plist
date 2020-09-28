@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>abs-client</key>
+	<string>311791806</string>
+	<key>application-identifier</key>
+	<string>com.apple.managedconfiguration.cloudconfigd</string>
+	<key>com.apple.keystore.sik.access</key>
+	<true/>
+	<key>com.apple.mobileactivationd.device-identifiers</key>
+	<true/>
+	<key>com.apple.mobileactivationd.network-security-disabled</key>
+	<true/>
+	<key>com.apple.mobileactivationd.spi</key>
+	<true/>
+	<key>com.apple.private.MobileContainerManager.otherIdLookup</key>
+	<true/>
+	<key>com.apple.private.keychain.sysbound</key>
+	<true/>
+	<key>com.apple.private.lockdown.finegrained-get</key>
+	<array>
+		<string>NULL/ActivationPrivateKey</string>
+		<string>NULL/DevicePrivateKey</string>
+		<string>NULL/DeviceCertificate</string>
+		<string>NULL/DeviceName</string>
+	</array>
+	<key>com.apple.security.attestation.access</key>
+	<true/>
+	<key>com.apple.security.system-groups</key>
+	<array>
+		<string>systemgroup.com.apple.configurationprofiles</string>
+	</array>
+	<key>keychain-access-groups</key>
+	<array>
+		<string>apple</string>
+		<string>com.apple.certificates</string>
+		<string>com.apple.identities</string>
+		<string>lockdown-identities</string>
+	</array>
+</dict>
+</plist>

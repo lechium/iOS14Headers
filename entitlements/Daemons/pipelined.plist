@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>application-identifier</key>
+	<string>com.apple.pipelined</string>
+	<key>com.apple.BTServer.appleMfgDataScanner</key>
+	<true/>
+	<key>com.apple.SystemConfiguration.SCPreferences-write-access</key>
+	<array>
+		<string>com.apple.AutoWake.xml</string>
+	</array>
+	<key>com.apple.duet.activityscheduler.allow</key>
+	<true/>
+	<key>com.apple.hid.system.fast-path-motion-event-privileged</key>
+	<true/>
+	<key>com.apple.locationd.activity</key>
+	<true/>
+	<key>com.apple.private.hid.client.motion-event-privileged</key>
+	<true/>
+	<key>com.apple.private.security.storage.pipelined</key>
+	<true/>
+	<key>com.apple.security.iokit-user-client-class</key>
+	<array>
+		<string>IOHIDEventServiceFastPathUserClient</string>
+	</array>
+	<key>com.apple.wifi.manager-access</key>
+	<true/>
+</dict>
+</plist>

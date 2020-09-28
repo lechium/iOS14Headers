@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>application-identifier</key>
+	<string>com.apple.installcoordinationd</string>
+	<key>com.apple.appconduitd.device-connection.connect.allow</key>
+	<true/>
+	<key>com.apple.companionappd.connect.allow</key>
+	<true/>
+	<key>com.apple.frontboard.launchapplications</key>
+	<true/>
+	<key>com.apple.multitasking.termination</key>
+	<true/>
+	<key>com.apple.private.CacheDelete</key>
+	<array>
+		<string>CLIENT_ENTITLEMENT</string>
+		<string>PURGEABLE_ENTITLEMENT</string>
+		<string>PURGE_ENTITLEMENT</string>
+	</array>
+	<key>com.apple.private.MobileInstallationHelperService.InstallCoordinationDaemonOpsEnabled</key>
+	<true/>
+	<key>com.apple.private.MobileInstallationHelperService.allowed</key>
+	<true/>
+	<key>com.apple.private.healthkit</key>
+	<true/>
+	<key>com.apple.private.installcoordinationd.daemon</key>
+	<true/>
+	<key>com.apple.private.mobileinstall.allowedSPI</key>
+	<array>
+		<string>GetAppMetadata</string>
+		<string>UpdatePlaceholderMetadata</string>
+		<string>InstallLocalProvisioned</string>
+		<string>UninstallForLaunchServices</string>
+		<string>InstallForLaunchServices</string>
+	</array>
+	<key>com.apple.security.exception.mach-lookup.global-name</key>
+	<array>
+		<string>com.apple.frontboard.systemappservices</string>
+	</array>
+	<key>com.apple.security.system-groups</key>
+	<array>
+		<string>systemgroup.com.apple.installcoordinationd</string>
+	</array>
+	<key>com.apple.springboard.CFUserNotification</key>
+	<true/>
+	<key>com.apple.springboard.opensensitiveurl</key>
+	<array>
+		<string>prefs:</string>
+	</array>
+	<key>com.apple.springboard.remote-alert</key>
+	<true/>
+</dict>
+</plist>

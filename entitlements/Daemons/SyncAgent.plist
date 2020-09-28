@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>application-identifier</key>
+	<string>com.apple.SyncAgent</string>
+	<key>com.apple.Contacts.database-allow</key>
+	<true/>
+	<key>com.apple.private.accounts.allaccounts</key>
+	<true/>
+	<key>com.apple.private.lockdown.finegrained-get</key>
+	<array>
+		<string>com.apple.mobile.data_sync/Sources</string>
+		<string>com.apple.mobile.data_sync/AccountNames</string>
+		<string>com.apple.mobile.data_sync/NULL</string>
+		<string>com.apple.mobile.data_sync/Contacts</string>
+		<string>com.apple.mobile.data_sync/Calendars</string>
+		<string>com.apple.mobile.data_sync/Bookmarks</string>
+		<string>com.apple.mobile.data_sync/Notes</string>
+		<string>com.apple.mobile.data_sync/Mail Accounts</string>
+		<string>com.apple.mobile.tethered_sync/Contacts</string>
+		<string>com.apple.mobile.tethered_sync/Calendars</string>
+		<string>com.apple.mobile.tethered_sync/Bookmarks</string>
+		<string>com.apple.mobile.tethered_sync/Notes</string>
+		<string>com.apple.mobile.tethered_sync/Mail Accounts</string>
+	</array>
+	<key>com.apple.private.lockdown.finegrained-set</key>
+	<array>
+		<string>com.apple.mobile.data_sync/Sources</string>
+		<string>com.apple.mobile.data_sync/AccountNames</string>
+		<string>com.apple.mobile.data_sync/NULL</string>
+		<string>com.apple.mobile.data_sync/Contacts</string>
+		<string>com.apple.mobile.data_sync/Calendars</string>
+		<string>com.apple.mobile.data_sync/Bookmarks</string>
+		<string>com.apple.mobile.data_sync/Notes</string>
+		<string>com.apple.mobile.data_sync/Mail Accounts</string>
+		<string>com.apple.mobile.tethered_sync/Contacts</string>
+		<string>com.apple.mobile.tethered_sync/Calendars</string>
+		<string>com.apple.mobile.tethered_sync/Bookmarks</string>
+		<string>com.apple.mobile.tethered_sync/Notes</string>
+		<string>com.apple.mobile.tethered_sync/Mail Accounts</string>
+	</array>
+	<key>com.apple.private.safari.offlinereadinglist</key>
+	<true/>
+	<key>com.apple.private.security.storage.Safari</key>
+	<true/>
+	<key>com.apple.private.tcc.allow</key>
+	<array>
+		<string>kTCCServiceAddressBook</string>
+	</array>
+	<key>com.apple.security.iokit-user-client-class</key>
+	<array>
+		<string>IOSurfaceRootUserClient</string>
+	</array>
+	<key>keychain-access-groups</key>
+	<array>
+		<string>apple</string>
+		<string>appleaccount</string>
+	</array>
+</dict>
+</plist>

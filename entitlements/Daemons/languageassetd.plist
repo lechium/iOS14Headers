@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>application-identifier</key>
+	<string>com.apple.languageassetd</string>
+	<key>com.apple.private.assets.accessible-asset-types</key>
+	<array>
+		<string>com.apple.MobileAsset.DictionaryServices.dictionary2</string>
+		<string>com.apple.MobileAsset.Font6</string>
+		<string>com.apple.MobileAsset.Font5</string>
+		<string>com.apple.MobileAsset.Font4</string>
+		<string>com.apple.MobileAsset.Font3</string>
+		<string>com.apple.MobileAsset.Font2</string>
+		<string>com.apple.MobileAsset.Font</string>
+	</array>
+	<key>com.apple.private.assets.change-daemon-config</key>
+	<true/>
+</dict>
+</plist>

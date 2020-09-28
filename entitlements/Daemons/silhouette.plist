@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>application-identifier</key>
+	<string>com.apple.silhouette</string>
+	<key>com.apple.coreduetd.allow</key>
+	<true/>
+	<key>com.apple.proactive.PersonalizationPortrait.Config</key>
+	<true/>
+	<key>com.apple.proactive.PersonalizationPortrait.NamedEntity.readOnly</key>
+	<true/>
+	<key>com.apple.proactive.PersonalizationPortrait.Topic.readOnly</key>
+	<true/>
+	<key>com.apple.security.exception.files.absolute-path.read-only</key>
+	<array>
+		<string>/private/var/mobile/Library/CoreDuet/Knowledge/</string>
+	</array>
+	<key>com.apple.security.exception.mach-lookup.global-name</key>
+	<array>
+		<string>com.apple.suggestd.PersonalizationPortrait.DeletionTracking</string>
+		<string>com.apple.coreduetd.knowledge</string>
+	</array>
+</dict>
+</plist>

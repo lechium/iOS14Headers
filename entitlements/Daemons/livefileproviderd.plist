@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>application-identifier</key>
+	<string>com.apple.filesystems.livefileproviderd</string>
+	<key>com.apple.application-identifier</key>
+	<string>com.apple.filesystems.livefileproviderd</string>
+	<key>com.apple.fileprovider.enumerate</key>
+	<true/>
+	<key>com.apple.private.LiveFS.connection</key>
+	<true/>
+	<key>com.apple.security.exception.files.home-relative-path.read-write</key>
+	<array>
+		<string>/Library/LiveFiles/</string>
+	</array>
+</dict>
+</plist>

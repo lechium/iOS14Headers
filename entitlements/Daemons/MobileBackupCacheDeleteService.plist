@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>application-identifier</key>
+	<string>com.apple.mobile.cache_delete_mobile_backup</string>
+	<key>com.apple.private.CacheDelete</key>
+	<array>
+		<string>CLIENT_ENTITLEMENT</string>
+		<string>PURGEABLE_ENTITLEMENT</string>
+		<string>ITEMIZED_PURGEABLE_ENTITLEMENT</string>
+		<string>PURGE_ENTITLEMENT</string>
+		<string>CANCEL_PURGE_ENTITLEMENT</string>
+		<string>SERVICE_ENTITLEMENT</string>
+	</array>
+	<key>com.apple.private.vfs.open-by-id</key>
+	<true/>
+	<key>com.apple.private.vfs.snapshot</key>
+	<true/>
+	<key>com.apple.security.temporary-exception.files.absolute-path.read-write</key>
+	<string>/var/</string>
+	<key>seatbelt-profiles</key>
+	<array>
+		<string>MobileBackup</string>
+	</array>
+</dict>
+</plist>

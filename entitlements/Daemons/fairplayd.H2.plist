@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>application-identifier</key>
+	<string>com.apple.fairplayd</string>
+	<key>adi-client</key>
+	<string>315444076</string>
+	<key>lskd-client</key>
+	<string>1835739258</string>
+        <key>com.apple.security.system-container</key>
+	<true/>
+	<key>com.apple.authkit.client.private</key>
+	<true/>
+</dict>
+</plist>

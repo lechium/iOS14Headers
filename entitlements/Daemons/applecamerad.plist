@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.apple.camera.iokit-user-access</key>
+	<true/>
+	<key>com.apple.coreaudio.register-internal-aus</key>
+	<true/>
+	<key>com.apple.driver.VADResource.user-access</key>
+	<true/>
+	<key>com.apple.keystore.sik.access</key>
+	<true/>
+	<key>com.apple.pearl.iokit-user-access</key>
+	<true/>
+	<key>com.apple.security.iokit-user-client-class</key>
+	<array>
+		<string>AppleH10CamInUserClient</string>
+		<string>IOSurfaceRootUserClient</string>
+		<string>H11ANEInDirectPathClient</string>
+		<string>AGXDeviceUserClient</string>
+	</array>
+	<key>com.apple.symptom_diagnostics.report</key>
+	<true/>
+</dict>
+</plist>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.apple.private.ids.messaging</key>
+	<array>
+		<string>com.apple.private.alloy.messages</string>
+		<string>com.apple.private.alloy.quickboard.classa</string>
+	</array>
+	<key>com.apple.private.lockdown.finegrained-get</key>
+	<array>
+		<string>NULL/ActivationState</string>
+	</array>
+	<key>keychain-access-groups</key>
+	<array>
+		<string>com.apple.TextInput</string>
+	</array>
+</dict>
+</plist>

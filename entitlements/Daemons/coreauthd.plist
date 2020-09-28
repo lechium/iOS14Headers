@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.apple.assertiond.app-state-monitor</key>
+	<true/>
+	<key>com.apple.frontboard.launchapplications</key>
+	<true/>
+	<key>com.apple.keystore.device.uuid</key>
+	<true/>
+	<key>com.apple.keystore.device.verify</key>
+	<true/>
+	<key>com.apple.private.applecredentialmanager.allow</key>
+	<true/>
+	<key>com.apple.private.applecredentialmanager.capturecredential.allow</key>
+	<true/>
+	<key>com.apple.private.applecredentialmanager.securestore.allow</key>
+	<true/>
+	<key>com.apple.private.bmk.allow</key>
+	<true/>
+	<key>com.apple.private.coreservices.canmapbundleidtouuid</key>
+	<true/>
+	<key>com.apple.private.ctk.token-access.allow</key>
+	<true/>
+	<key>com.apple.private.tcc.manager</key>
+	<true/>
+	<key>com.apple.security.iokit-user-client-class</key>
+	<array>
+		<string>AppleCredentialManagerUserClient</string>
+	</array>
+	<key>com.apple.springboard.hardware-button-service.home-hint-suppression</key>
+	<true/>
+	<key>com.apple.springboard.remote-alert</key>
+	<true/>
+</dict>
+</plist>

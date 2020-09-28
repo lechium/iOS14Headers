@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.apple.MobileInternetSharing.allow</key>
+	<true/>
+	<key>com.apple.SystemConfiguration.SCDynamicStore-write-access</key>
+	<true/>
+	<key>com.apple.SystemConfiguration.SCPreferences-write-access</key>
+	<array>
+		<string>com.apple.wifi.plist</string>
+		<string>preferences.plist</string>
+	</array>
+	<key>com.apple.private.ckks</key>
+	<true/>
+	<key>com.apple.private.skywalk.observe-stats</key>
+	<true/>
+	<key>com.apple.security.exception.mach-lookup.global-name</key>
+	<array>
+		<string>com.apple.airportd</string>
+		<string>com.apple.MobileInternetSharing</string>
+		<string>com.apple.analyticsd</string>
+		<string>com.apple.securityd.ckks</string>
+	</array>
+	<key>com.apple.security.iokit-user-client-class</key>
+	<array>
+		<string>IO80211AsyncEventUserClient</string>
+		<string>IO80211P2PDaemonUserClient</string>
+	</array>
+	<key>com.apple.wifi.manager-access</key>
+	<true/>
+	<key>com.apple.wifi_awdl.event_monitor</key>
+	<true/>
+	<key>com.apple.wifi_nan.event_monitor</key>
+	<true/>
+	<key>com.apple.wifip2p.daemon_monitor</key>
+	<true/>
+	<key>com.apple.wlan.authentication</key>
+	<true/>
+	<key>keychain-access-groups</key>
+	<array>
+		<string>com.apple.wifip2pd</string>
+	</array>
+	<key>platform-application</key>
+	<true/>
+	<key>seatbelt-profiles</key>
+	<array>
+		<string>wifip2pd</string>
+	</array>
+</dict>
+</plist>
